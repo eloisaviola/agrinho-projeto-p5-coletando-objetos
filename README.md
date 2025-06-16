@@ -1,4 +1,5 @@
 créditos: IA
+
 Objetivo do Jogo
 Em "Fazenda e Cidade: Aventura no Campo", você assume o papel de um aventureiro do campo, cuja missão é percorrer diferentes fases para coletar itens espalhados entre o campo e a cidade, ao mesmo tempo em que evita os inimigos e corre contra o tempo. O objetivo principal é coletar 10 itens em cada fase, aumentar seus pontos e avançar pelas fases, enfrentando inimigos cada vez mais desafiadores.
 
